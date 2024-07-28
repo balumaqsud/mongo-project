@@ -1,0 +1,24 @@
+{
+  "name": "mongo-project",
+  "version": "1.0.0",
+  "description": "1",
+  "type": "commonjs",
+  "main": "1",
+  "scripts": {
+    "test": "111"
+  },
+  "repository": {
+    "type": "git",
+    "url": "11"
+  },
+  "keywords": [
+    "balu"
+  ],
+  "author": "ollobergan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "isvalid": "^4.1.5",
+    "mongodb": "^6.8.0"
+  }
+}
